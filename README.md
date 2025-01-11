@@ -45,7 +45,7 @@ Become part of our growing community of Terabox video enthusiasts. Use our platf
 **Website:** [https://teraboxdownloader.co.in/](https://teraboxdownloader.co.in/)
 **Telegram Bot:** [https://t.me/+C5_EqsjSJMMyYmFl](https://t.me/+C5_EqsjSJMMyYmFl)
 
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Ftechshade%2Fterabox-player&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/nailincharvi/terabox_video_player_downloader&countColor=%23263759)
 
 ---
 
